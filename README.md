@@ -12,6 +12,8 @@ With this approach users still enjoy the battle-tested facilities provided by Ka
 * Continous integration with Jenkins, Circle CI, etc.
 * In-app reporting and insights with Katalon Analytics.
 
+## How to use it
+
 **Before open project you have to download dependencies using Katalon Studio Gradle plugin.
 See the instructions [here](https://github.com/katalon-studio/gradle-plugin).**
 
