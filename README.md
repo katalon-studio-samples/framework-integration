@@ -2,7 +2,7 @@
 
 This sample project demonstrates the ability to integrate Katalon Studio with different frameworks.
 
-As our mission is to provide a free and robust test automation solutions for the software testing community, 
+As our mission is to provide a free and robust test automation solution for the software testing community, 
 we strongly believe in an open ecosystem where users can utilize any frameworks or libraries for their test projects.
 With this approach users still enjoy the battle-tested features provided by Katalon Studio:
 * Data driven testing
