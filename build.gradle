@@ -1,0 +1,16 @@
+plugins {
+  id 'java'
+  id "com.katalon.gradle-plugin" version "0.0.4"
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile 'io.rest-assured:rest-assured:3.1.0'
+  compile 'io.rest-assured:json-path:3.1.0'
+  compile 'io.rest-assured:xml-path:3.1.0'
+  compile 'io.rest-assured:json-schema-validator:3.1.0'
+  compile 'com.codeborne:selenide:4.12.3'
+}
