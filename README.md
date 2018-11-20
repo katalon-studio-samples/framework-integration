@@ -10,7 +10,7 @@ With this approach users still enjoy the battle-tested features provided by Kata
 * Parallel execution
 * Integration with various systems: Jira, qTest, etc.
 * Continous integration with Jenkins, Circle CI, etc.
-* In-app reporting and insights with Katalon Analytics.
+* In-app reporting and insights with Katalon Analytics
 
 ## How to use it
 
