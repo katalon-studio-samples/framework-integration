@@ -8,6 +8,6 @@ This sample project demonstrate the ability to integrate Katalon Studio with dif
 See the instructions [here](https://github.com/katalon-studio/gradle-plugin).**
 
 Frameworks used in this project:
-* Katalon Studio
-* Selenide
+* Selenium (Java API)
 * Rest-Assured
+* Selenide
